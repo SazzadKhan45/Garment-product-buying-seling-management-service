@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "6943f95ce1f88f7e4bceba51",
+    "name": "Admin",
+    "email": "sazzadkhan111@gmail.com",
+    "role": "Admin",
+    "photo": "https://i.ibb.co/fVhYgjG2/man-7796384-640.jpg",
+    "status": "approved",
+    "createdAt": "2025-12-18T12:53:48.086+00:00"
+  }
+]
