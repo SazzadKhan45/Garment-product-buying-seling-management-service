@@ -1,7 +1,5 @@
 # Live-Link : https://appsauth-8a1a7.web.app/
 
-# github-link : https://github.com/SazzadKhan45/assignment-11-client-site
-
 # Website Name : G-Flow (Garment Product buying & sale for Buyer & Garment Owner)
 
 About : G-Flow is a modern garment marketplace that connects buyers with garment owners in one seamless platform. It enables easy buying and selling of garment products with transparent pricing, secure transactions, and real-time order tracking. G-Flow simplifies sourcing, improves communication, and streamlines the entire garment trade process, helping businesses grow efficiently in the fashion and apparel industry.
